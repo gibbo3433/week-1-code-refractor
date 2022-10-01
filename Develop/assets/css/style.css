@@ -9,14 +9,18 @@ body {
 }
 
 header {
-    padding: 20px;
+    padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    display: inline-block;
-    font-size: 48px;
+    font-size: 32px;
+    text-align: center;
 }
 
+.top-search-bar {
+
+    
+}
 
 .header h1 .seo {
     color: #d9dcd6;
