@@ -26,15 +26,15 @@ THEN I find a concise, descriptive title
 
 ## Issues identified and corrected
 
-Most of the issues I was faced with was updating the HTML structure to a more semnatic code structure and also how much of an abundance of class selectors were used in the CSS file. I competed my task by reorganising the index.html file into the correct semantic structure and also by adding more user friendly element selectors into the CSS code.
+Most of the issues I was faced with was updating the HTML structure to a more semantic code structure and how much of an abundance of class selectors were used in the CSS file. I competed my task by reorganising the index.html file into the correct semantic structure and by adding more user-friendly element selectors into the CSS code.
 
 ## Future work
 
 CSS:
 - Use of a media screen
-- :root to change entire selectors if nessccessary
+-: root to change entire selectors if necessary
 
-I have added into HTML alt: notes and into CSS also /*notes*/ to help any future edits by making it easier to see what the different elements are in the code and if any collaberation work will be done in the future. 
+I have added into HTML alt: notes and into CSS also /*notes*/ to help any future edits by making it easier to see what the different elements are in the code and if any collaboration work will be done in the future. 
 
 ## Screenshot of completed Horiseon website
 
@@ -43,5 +43,5 @@ I have added into HTML alt: notes and into CSS also /*notes*/ to help any future
 ## Authors and acknowledgment
 Jordan Gibbs - Novice Coder
 
-#License
+## License
 N/A
