@@ -11,7 +11,7 @@ body {
     ;
 }
 
-header {
+header  {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -34,7 +34,6 @@ h2 {
 
 h3 {
     padding: 10px;
-  
     font-size: 110%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
