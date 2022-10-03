@@ -41,10 +41,7 @@ I have added into HTML alt: notes and into CSS also /*notes*/ to help any future
 ![horiseon-new-website](https://user-images.githubusercontent.com/113479774/193668138-e39aad77-7147-41ec-a2b5-321b46570d87.png)
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Jordan Gibbs - Novice Coder
 
-License
-For open source projects, say how it is licensed.
-
-Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+#License
+N/A
