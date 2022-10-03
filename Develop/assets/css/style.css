@@ -7,6 +7,8 @@
 
 body {
     background-color: #d9dcd6;
+    line-height: 2
+    ;
 }
 
 header {
@@ -22,6 +24,17 @@ header {
 h2 {
     padding: 10px;
     margin-top: 30px;
+    font-size: 110%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    text-align: center;
+    border: 5px solid rgb(244, 244, 247)
+}
+
+h3 {
+    padding: 10px;
+  
     font-size: 110%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -63,9 +76,8 @@ ul.horizontal_menu li {
 }
 
 .Main-information-box {
-    margin-bottom: 20px;
-    padding: 30px;
-    height: 80%;
+    margin: 5px 5px 5px 5px;
+    padding: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -73,6 +85,17 @@ ul.horizontal_menu li {
     display: inline-block;
     font-size:larger
     }
+
+.side-column-information-box {
+    margin: 5px 5px 5px 5px;
+    padding: 5px;
+    clear: both;
+    float: right;
+    width: 23%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;   
+    font-size: large;
+}
 
 .float-left {
     float: left;
@@ -86,16 +109,10 @@ ul.horizontal_menu li {
     max-height: 200px;
 }
 
-
-.side-column-information-box {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+.side-column-information-box img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 
@@ -105,22 +122,9 @@ ul.horizontal_menu li {
 
 
 
-
-
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
 
 .benefit-lead {
-    margin-bottom: 32px;
+ 
     color: #ffffff;
 }
 
@@ -134,19 +138,6 @@ ul.horizontal_menu li {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-lead img {
