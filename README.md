@@ -1,17 +1,48 @@
-# week-1-code-refractor
-Name
-Choose a self-explaining name for your project.
+# Challenge 1: Code refractor = Horiseon
 
-Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+## On-the-job ticket
 
-Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Horiseon came to me with their current website code, asking me to update their code to follow accessibility standards so that the new website will be optimized for search engines.
 
-Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+### User Story
 
-Installation
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+### Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+## Issues identified and corrected
+
+Most of the issues I was faced with was updating the HTML structure to a more semnatic code structure and also how much of an abundance of class selectors were used in the CSS file. I competed my task by reorganising the index.html file into the correct semantic structure and also by adding more user friendly element selectors into the CSS code.
+
+## Future work
+
+CSS:
+- Use of a media screen
+- :root to change entire selectors if nessccessary
+
+I have added into HTML alt: notes and into CSS also /*notes*/ to help any future edits by making it easier to see what the different elements are in the code and if any collaberation work will be done in the future. 
+
+## Screenshot of completed Horiseon website
+
+
+
+
+
+
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
 Usage
