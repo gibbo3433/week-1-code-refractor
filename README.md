@@ -38,7 +38,7 @@ I have added into HTML alt: notes and into CSS also /*notes*/ to help any future
 
 ## Screenshot of completed Horiseon website
 
-![Horiseon](./Develop/assets/images/Horiseon New Website.png)
+![horiseon-new-website](https://user-images.githubusercontent.com/113479774/193668138-e39aad77-7147-41ec-a2b5-321b46570d87.png)
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
